@@ -1,6 +1,6 @@
 # Automated Cloud Infrastructure Deployment with Terraform on AWS
 
-In a previous project, I successfully designed and deployed a comprehensive cloud infrastructure on AWS using Terraform. The primary goal was to establish automated, repeatable, and version-controlled provisioning of resources within the AWS environment.
+I successfully designed and deployed a comprehensive cloud infrastructure on AWS using Terraform. The primary goal was to establish automated, repeatable, and version-controlled provisioning of resources within the AWS environment.
 
 ## Project Accomplishments
 
